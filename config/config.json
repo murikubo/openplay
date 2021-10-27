@@ -5,12 +5,12 @@
 	"Mattermost_Server_URL": "https://chat.slexn.com",
 	"Mattermost_Bot_Personal_Token": "jq7posxm5bn5id3cnhknh431eo",
 	"Server_URL_MAIN": "http://3248d14194c4.ngrok.io",
-	"Server_URL" : "http://115.178.76.231:49005",
+	"Server_URL" : "http://115.178.77.231:49005",
 	"Use_Port": "49005",
-	"DB_Host" : "115.178.76.231",
-	"DB_Port" : "3306",
+	"DB_Host" : "115.178.77.231",
+	"DB_Port" : "3307",
 	"DB_User" : "root",
-	"DB_Password" : "finger",
+	"DB_Password" : "snix231**",
 	"DB_Database" : "user",
 	"VERSION": "3.0.1"
 }
